@@ -417,7 +417,7 @@ body.compensate-for-scrollbar {
 }
 
 .fancybox-slide--html .fancybox-close-small {
-    color: $color-blue-light;
+    color: $color-dark;
     right: 15px;
     top:15px;
     height: 26px;
@@ -425,7 +425,7 @@ body.compensate-for-scrollbar {
     padding: 0px;
 }
 .fancybox-slide--html .fancybox-close-small:hover{
-     color: $color-blue;
+     color: $color-red;
 }
 
 .fancybox-slide--image.fancybox-is-scaling .fancybox-content {
